@@ -1,5 +1,4 @@
-a = 33
-b = 300
-
-if  b < a :
-    print('b is greater than a')
+Variable=10
+Variable2=7
+Variable3=Variable+Variable2
+print(Variable)
